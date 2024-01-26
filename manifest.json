@@ -1,7 +1,7 @@
 {
     "files": {
         "index.js": "2210b719a84086b1c5ddfe72fca46abbb7bab0cb4aae6d683781d6da4e9a648b",
-        "module.json": "8efe7be017f27c5e8a7df16e3c0ae9fc7cec8c64d9049bb1b5f3e3f65345030c",
+        "module.json": "661434abca4dd2d2d51ed4362aef53c0e7122da981888f5bf834da5ee4a8412a",
         "lib/chat-sanitizer.js": "0117ffca404691539dbe041bfe9bc51b00aafa55d87f8053728231864491de72",
         "lib/swim-fix.js": "30dadfa58eaa4057e41a6e5139f8f793da9b793885753356b120bdabeaeae12a",
         "lib/gear-upgrade-crash-fix.js": "055519ebeefced10960340d53cfbed6b6fee8b2fc4b1ac5c32167a69bad707e5"
