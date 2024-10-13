@@ -1,8 +1,8 @@
 {
     "name": "bugfix",
-    "author": "Menma / Foglio / Caali / Pinkie Pie",
+    "author": "Menma / Foglio / Snug / Caali / Pinkie Pie",
     "description": "Collection of mods that fix some of the most severe client bugs in TERA.",
-    "version": "1.1",
+    "version": "1.2",
     "options": {
         "cliName": "Bugfix",
         "guiName": "Bugfix"
